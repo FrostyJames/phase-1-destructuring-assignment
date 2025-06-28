@@ -57,6 +57,9 @@ const muppetNested = {
 
 const { nestedJob, nestedPartner } = muppetNested;
 
+// console.log(moo, neigh, baa, oink, cluck); // cow horse sheep pig chicken
+
+
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
